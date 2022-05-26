@@ -6,5 +6,5 @@ Passionate about **software development** in multiple technologies ranging from 
 
 + 💛 JavaScript lover 
 + 🌱 Learning about mobile technologies
-+ 👨‍💻 i'm currently working in `.html` `.css` `.js` `.jsx`
++ 👨‍💻 i'm currently working in `.html` `.css` `.js` `.ts` `.jsx`
 + 📬 Contact me on abrahamespinosa3132@gmail.com
